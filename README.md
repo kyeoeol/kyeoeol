@@ -1,4 +1,4 @@
-## Hi there 👋
+everybody needs a strat.
 
 <!--
 **kyeoeol/kyeoeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
