@@ -11,6 +11,12 @@ I'm into clean, simple design and smooth interactions. When I see something I li
 Lately, I've been trying my hand at building a Mac app with
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/electron/electron-original.svg" height="14" alt=""> Electron.
 
+***
+
+#### Projects
+
+- <a href='https://github.com/kyeoeol/nlu_script'>nlu_script</a> - Regex script for Natural Language Understanding.
+
 <!--
 **kyeoeol/kyeoeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
