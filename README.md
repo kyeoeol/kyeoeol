@@ -13,7 +13,7 @@ Lately, I've been trying my hand at building a Mac app with
 
 ***
 
-#### Projects
+#### Prototypes
 
 - <a href='https://github.com/kyeoeol/nlu_script'>nlu_script</a> - Regex script for Natural Language Understanding.
 
