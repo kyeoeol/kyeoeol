@@ -7,14 +7,14 @@ These days, I collect tips, tricks, and POVs from amazing developers and turn th
 
 #### Prototypes
 
-- <a href='https://github.com/kyeoeol/nlu_script'>nlu_script</a> - Regex script for Natural Language Understanding.
+- <a href='https://github.com/kyeoeol/nlu_script'>nlu_script</a> : Regex script for Natural Language Understanding.
 
 ***
 
 #### Playground
 
   - <a href='https://github.com/kyeoeol/playgrou
-  nd/blob/main/claude-dev-footer-remake.html'>claude-dev-footer-remake</a> - A space-scene
+  nd/blob/main/claude-dev-footer-remake.html'>claude-dev-footer-remake</a> : A space-scene
   footer with a Ditto that follows the pointer.
 
 <!--
