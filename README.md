@@ -13,8 +13,7 @@ These days, I collect tips, tricks, and POVs from amazing developers and turn th
 
 #### Playground
 
-  - <a href='https://github.com/kyeoeol/playgrou
-  nd/blob/main/claude-dev-footer-remake.html'>claude-dev-footer-remake</a> : A space-scene
+  - <a href='https://github.com/kyeoeol/playground/tree/main/claude-dev-footer-remake'>claude-dev-footer-remake</a> : A space-scene
   footer with a Ditto that follows the pointer.
 
 <!--
