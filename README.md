@@ -13,8 +13,9 @@ These days, I collect tips, tricks, and POVs from amazing developers and turn th
 
 #### Playground
 
-  - <a href='https://github.com/kyeoeol/playground/tree/main/claude-dev-footer-remake'>claude-dev-footer-remake</a> : A space-scene
+- <a href='https://github.com/kyeoeol/playground/tree/main/claude-dev-footer-remake'>claude-dev-footer-remake</a> : A space-scene
   footer with a Ditto that follows the pointer.
+- <a href='https://github.com/kyeoeol/playground/tree/main/santiago-bernabeu'>santiago-bernabeu</a> : A pixel-art diorama of the Santiago Bernabéu with a changeable time of day and weather.
 
 <!--
 **kyeoeol/kyeoeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
