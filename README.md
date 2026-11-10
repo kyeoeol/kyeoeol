@@ -14,6 +14,7 @@ These days, I collect tips, tricks, and POVs from amazing developers and turn th
 
 #### Playground
 
+- <a href='https://github.com/kyeoeol/playground/tree/main/chalet'>chalet</a> : a pixel-art ski village where every house is a coding agent in one of your folders, built entirely on the Rex CLI.
 - <a href='https://github.com/kyeoeol/playground/tree/main/claude-dev-footer-remake'>claude-dev-footer-remake</a> : A space-scene
   footer with a Ditto that follows the pointer.
 - <a href='https://github.com/kyeoeol/playground/tree/main/santiago-bernabeu'>santiago-bernabeu</a> : A pixel-art diorama of the Santiago Bernabéu with a changeable time of day and weather.
