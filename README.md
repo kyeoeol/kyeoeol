@@ -1,7 +1,7 @@
 #### I'm HANKYEOL
 
 I used to build apps with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/swift/swift-original.svg" height="14" alt=""> Swift at a platform company.<br>
-These days, I collect tips, tricks, and POVs from amazing developers and turn them into prototypes.
+These days, I collect tips, tricks, and POVs from developers across the community and turn them into prototypes.
 
 ***
 
